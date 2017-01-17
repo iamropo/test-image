@@ -2,6 +2,7 @@
   "name": "test-image",
   "version": "1.0.1",
   "description": "A standard image to test requests with",
+	"main": "image.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iamropo/test-image.git"
