@@ -1,6 +1,6 @@
 {
   "name": "test-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A standard image to test requests with",
 	"main": "image.js",
   "repository": {
