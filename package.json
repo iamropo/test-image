@@ -2,9 +2,8 @@
   "name": "test-image",
   "version": "1.0.0",
   "description": "A standard image to test requests with",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node image.js"
   },
   "repository": {
     "type": "git",
@@ -16,7 +15,7 @@
     "request"
   ],
   "author": "Hage Ropo/iamropo@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/iamropo/test-image/issues"
   },
